@@ -1,5 +1,3 @@
-# control_led_with_python-GUI
-
 # Deskipsi
 projek ini menggabungkan antara program arduino dengan python gui menggunakan serial port
 projek sederhana ini menggendalikan lampu dengan aplikasi
