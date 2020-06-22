@@ -1,6 +1,5 @@
 char mydata = 0;
-int led_1 = 7;
-int led_2 = 13;
+int led_1 = 7, led_2 = 8;
 
 void setup() {
   Serial.begin(9600);
