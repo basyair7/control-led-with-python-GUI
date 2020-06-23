@@ -4,13 +4,13 @@ import serial
 
 # create function led
 def led_1_on():
-    board.write(b'0') # write(b'1')
+    board.write(b'0')
 
 def led_1_off():
     board.write(b'1')
 
 def led_2_on():
-    board.write(b'2') # write(b'2')
+    board.write(b'2')
 
 def led_2_off():
     board.write(b'3')
