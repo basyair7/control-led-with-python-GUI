@@ -1,5 +1,5 @@
 #define led_1 7
-#define led_2 13
+#define led_2 8
 
 String mydata;
 
